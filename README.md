@@ -1,18 +1,12 @@
-### Hi there 👋
+### Hi there, my name is Teresa 👩🏻‍💻
 
-This is my GitHub profile :)
+I am a curious, versatile and determined front-end developer, used to work in multicultural environments and in different languages.
 
-<!--
-**mteresa-jimenez/mteresa-jimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Attempting to improve my knowledge in Digital Marketing, I discovered a new passion, a new way of combining my creative and analytical skills: programming.
 
-Here are some ideas to get you started:
+Working internationally, in multidisciplinary teams and in different types of business, made me become an adaptable, empathetic and fast-learner person.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Passionate about painting. 
+
+📫 How to reach me:
+- Linkedin:  https://www.linkedin.com/in/mteresa-jimenez/
