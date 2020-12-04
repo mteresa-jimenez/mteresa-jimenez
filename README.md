@@ -10,3 +10,4 @@ Working internationally, in multidisciplinary teams and in different types of bu
 
 📫 How to reach me:
 - Linkedin:  https://www.linkedin.com/in/mteresa-jimenez/
+- Twitter: @teresaurio_
