@@ -6,6 +6,6 @@ Attempting to improve my knowledge in **Digital Marketing**, I discovered a **ne
 
 🎨 Passionate about painting. 
 
-📫 How to reach me:
+### 📫 How to reach me:
 - Linkedin:  https://www.linkedin.com/in/mteresa-jimenez/
 - Email: <mteresa.jn@gmail.com>
