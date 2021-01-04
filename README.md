@@ -9,4 +9,3 @@ Attempting to improve my knowledge in **Digital Marketing**, I discovered a **ne
 📫 How to reach me:
 - Linkedin:  https://www.linkedin.com/in/mteresa-jimenez/
 - Email: <mailto:mteresa.jn@gmail.com>
-- Phone: <tel:+34690387845>
